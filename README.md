@@ -1,4 +1,7 @@
 # Camera_App1-BaseAdapter
+error:
+https://github.com/joeykiwi/Camera_App1-BaseAdapter/blob/master/app/src/main/java/intracode/org/camera_app1/CameraActivity.java
+line 109: setadapter function
 
 우선 기본적인 프리뷰, 사진찍기, sd 카드의 저장하기는 무리없이 완료했는데,
 sd카드에 있는 사진 파일을 받아서 어댑터를 사용해서 ListView에 넣는 방식으로 하던중
